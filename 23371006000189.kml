@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>23371006000189.kml</name>
+	<Style id="Style10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Style11">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffffaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="Style1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>23:37:1006000:189</name>
+		<Placemark>
+			<name>Style21</name>
+			<styleUrl>#Style1</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								37.3912949789,44.8422043272,0 37.3914052746,44.842135291,0 37.3927475456,44.8412950513,0 37.3930758491,44.8410580797,0 37.3933561755,44.8408455798,0 37.3938765905,44.8404445394,0 37.3954306443,44.8410168017,0 37.3954645951,44.8410768972,0 37.3955002025,44.8411358295,0 37.3961386664,44.8414525922,0 37.3945588996,44.8434094605,0 37.3912949789,44.8422043272,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								37.3912949789,44.8422043272,0 37.3914052746,44.842135291,0 37.3927475456,44.8412950513,0 37.3930758491,44.8410580797,0 37.3933561755,44.8408455798,0 37.3938765905,44.8404445394,0 37.3954306443,44.8410168017,0 37.3954645951,44.8410768972,0 37.3955002025,44.8411358295,0 37.3961386664,44.8414525922,0 37.3945588996,44.8434094605,0 37.3912949789,44.8422043272,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

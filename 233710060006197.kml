@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>233710060006197.kml</name>
+	<Style id="Style10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Style11">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffffaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="Style1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>23:37:1006000:6197</name>
+		<Placemark>
+			<name>Style48</name>
+			<styleUrl>#Style1</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								37.3629489613,44.8225732322,0 37.3631048156,44.8224075988,0 37.3632450874,44.8220377895,0 37.3636453463,44.8223254896,0 37.3636457617,44.8223571433,0 37.3629489613,44.8225732322,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								37.3629489613,44.8225732322,0 37.3631048156,44.8224075988,0 37.3632450874,44.8220377895,0 37.3636453463,44.8223254896,0 37.3636457617,44.8223571433,0 37.3629489613,44.8225732322,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

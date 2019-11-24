@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>233710060004091.kml</name>
+	<Style id="Style10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Style11">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffffaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="Style1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>23:37:1006000:4091</name>
+		<Placemark>
+			<name>Style9</name>
+			<styleUrl>#Style1</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+37.443729,44.800420,37.442709,44.798451,37.449527,44.797495,37.450568,44.797064,37.450971,44.796447,37.451268,44.796347,37.451336,44.796324,37.452522,44.795923,37.452591,44.795900,37.453737,44.795513,37.453805,44.795490,37.455166,44.795030,37.455772,44.794965,37.455849,44.794957,37.456017,44.795311,37.456402,44.795289,37.456942,44.795429,37.455835,44.795702,37.455780,44.795792,37.455704,44.795864,37.455736,44.796256,37.455666,44.796434,37.455160,44.796466,37.454730,44.796644,37.454661,44.796692,37.454497,44.797031,37.454365,44.797093,37.453674,44.797052,37.453448,44.797135,37.453101,44.797449,37.452851,44.797643,37.452630,44.797755,37.452239,44.797797,37.451667,44.797991,37.451489,44.798159,37.451216,44.798276,37.450851,44.798314,37.449926,44.799070,37.449684,44.799182,37.448482,44.799288,37.447453,44.799637,37.446910,44.799783,37.444161,44.800265,37.443824,44.800425,37.443729,44.800420
+
+ 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>23371006000376.kml</name>
+	<Style id="Style10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Style11">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffffaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="Style1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>23:37:1006000:376</name>
+		<Placemark>
+			<name>Style32</name>
+			<styleUrl>#Style1</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								37.4770015682,44.7887470692,0 37.4767924795,44.7882479985,0 37.477074075,44.7878701375,0 37.4764839329,44.7865610799,0 37.4766002151,44.7863413561,0 37.4771128157,44.7862638258,0 37.4776715,44.7860687484,0 37.478742597,44.7883017107,0 37.4793165825,44.7879292715,0 37.4795312085,44.7879571732,0 37.4795259563,44.7881484178,0 37.4794388878,44.7882328214,0 37.4789137445,44.788565685,0 37.4784943891,44.7887477581,0 37.4781272333,44.7886795813,0 37.4772082614,44.7887851944,0 37.4770015682,44.7887470692,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								37.4770015682,44.7887470692,0 37.4767924795,44.7882479985,0 37.477074075,44.7878701375,0 37.4764839329,44.7865610799,0 37.4766002151,44.7863413561,0 37.4771128157,44.7862638258,0 37.4776715,44.7860687484,0 37.478742597,44.7883017107,0 37.4793165825,44.7879292715,0 37.4795312085,44.7879571732,0 37.4795259563,44.7881484178,0 37.4794388878,44.7882328214,0 37.4789137445,44.788565685,0 37.4784943891,44.7887477581,0 37.4781272333,44.7886795813,0 37.4772082614,44.7887851944,0 37.4770015682,44.7887470692,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

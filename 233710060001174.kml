@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>233710060001174.kml</name>
+	<Style id="Style10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffffaa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Style11">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffffaa</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="Style1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>23:37:1006000:1174</name>
+		<Placemark>
+			<name>Style9</name>
+			<styleUrl>#Style1</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+37.468951,44.792899,37.470104,44.791339,37.470522,44.790773,37.471108,44.790478,37.472121,44.790182,37.475964,44.789278,37.476609,44.789085,37.476645,44.789167,37.476656,44.789338,37.476389,44.789550,37.476181,44.789786,37.476171,44.789805,37.476068,44.790011,37.475862,44.790043,37.475441,44.789882,37.474822,44.789870,37.474394,44.790060,37.473724,44.790057,37.473059,44.790190,37.472594,44.790545,37.472465,44.790684,37.472512,44.790999,37.472361,44.791078,37.471456,44.791309,37.471123,44.791551,37.470767,44.791743,37.470207,44.792274,37.470092,44.792540,37.469857,44.792649,37.469311,44.793013,37.468951,44.792899
+
+
+
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
