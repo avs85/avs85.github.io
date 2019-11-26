@@ -2,15 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>233700000002172.kml</name>
-	<Style id="Style10">
-		<LineStyle>
-			<color>ff0000ff</color>
-			<width>1.5</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>80ffffaa</color>
-		</PolyStyle>
-	</Style>
 	<StyleMap id="Style1">
 		<Pair>
 			<key>normal</key>
@@ -21,6 +12,15 @@
 			<styleUrl>#Style10</styleUrl>
 		</Pair>
 	</StyleMap>
+	<Style id="Style10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffffaa</color>
+		</PolyStyle>
+	</Style>
 	<Style id="Style11">
 		<LineStyle>
 			<color>ff0000ff</color>
